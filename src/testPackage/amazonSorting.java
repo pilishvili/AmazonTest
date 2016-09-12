@@ -7,6 +7,8 @@ import org.testng.annotations.Test;
 import other.settings;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
+import java.util.concurrent.TimeUnit;
+
 /**
  * Created by davitpilishvili on 9/10/16.
  */
@@ -53,8 +55,8 @@ public class amazonSorting extends settings {
 
         driver.findElement(By.xpath("//form/select/option[@value='price-asc-rank']")).click();
 
-       // String lowestPrice = driver.findElement(By.tagName("//li[@id='result_0']/div/div[4]/div/a[@class='a-link-normal a-text-normal']/span")).getText();
-       // Thread.sleep(10000);
+       //String lowestPrice = driver.findElement(By.tagName("//li[@id='result_0']/div/div[4]/div/a[@class='a-link-normal a-text-normal']/span")).getText();
+        Thread.sleep(10000);
 
 
         String results[] = new String[23];
@@ -87,22 +89,18 @@ public class amazonSorting extends settings {
 
         for (int i = 0; i < results.length; i++){
 
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(results[i])));
+
+
+        //wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(results[i])));
         String lowerPrice = driver.findElement(By.cssSelector(results[i])).getText();
 
             double lowPrice = Double.parseDouble(lowerPrice.replace("$", ""));
 
-           // System.out.println(lowerPrice);
-           System.out.println(lowPrice);
-           // Thread.sleep(3000);
-
-
+        System.out.println("This is a lowest Price: " + lowPrice);
+            Thread.sleep(3000);
 
         }
 
-
-
-        //System.out.println("This is a lowest Price: " + lowerPrice);
 
 
     }
