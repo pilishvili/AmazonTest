@@ -27,7 +27,7 @@ public class settings {
 
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-        wait = new WebDriverWait(driver, 10);
+       // wait = new WebDriverWait(driver, 10);
 
 
 
