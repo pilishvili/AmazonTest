@@ -25,8 +25,8 @@
       <file leaf-file-name="amazonSorting.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/testPackage/amazonSorting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1278">
-              <caret line="98" column="66" selection-start-line="98" selection-start-column="66" selection-end-line="98" selection-end-column="66" />
+            <state relative-caret-position="480">
+              <caret line="141" column="1" selection-start-line="141" selection-start-column="1" selection-end-line="141" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,7 +92,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
+    <option name="x" value="47" />
     <option name="y" value="29" />
     <option name="width" value="1838" />
     <option name="height" value="1048" />
@@ -191,7 +191,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="TestNG.amazonSorting.sortPriceLowToHigh">
+  <component name="RunManager" selected="TestNG./Users/davitpilishvili/Documents/AmazonTest/amazonTest.xml">
     <configuration default="false" name="amazonSorting.amazon" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -561,8 +561,8 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.amazonSorting.sortPriceLowToHigh" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG./Users/davitpilishvili/Documents/AmazonTest/amazonTest.xml" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG./Users/davitpilishvili/Documents/AmazonTest/amazonTest.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.amazonSorting.sortPriceLowToHigh" />
         <item index="2" class="java.lang.String" itemvalue="TestNG.amazonSorting.amazon" />
         <item index="3" class="java.lang.String" itemvalue="TestNG.amazonSorting.sorting" />
       </list>
@@ -585,39 +585,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.11 at 23h 38m 29s.xml">
+    <history-entry file="_Users_davitpilishvili_Documents_AmazonTest_amazonTest_xml - 2016.09.12 at 17h 51m 57s.xml">
+      <configuration name="/Users/davitpilishvili/Documents/AmazonTest/amazonTest.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.12 at 17h 26m 08s.xml">
       <configuration name="amazonSorting.sortPriceLowToHigh" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.11 at 23h 40m 20s.xml">
+    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.12 at 17h 27m 37s.xml">
       <configuration name="amazonSorting.sortPriceLowToHigh" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.11 at 23h 41m 25s.xml">
+    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.12 at 17h 33m 27s.xml">
       <configuration name="amazonSorting.sortPriceLowToHigh" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.11 at 23h 41m 58s.xml">
+    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.12 at 17h 35m 46s.xml">
       <configuration name="amazonSorting.sortPriceLowToHigh" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.11 at 23h 44m 05s.xml">
+    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.12 at 17h 36m 14s.xml">
       <configuration name="amazonSorting.sortPriceLowToHigh" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.11 at 23h 44m 34s.xml">
+    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.12 at 17h 36m 44s.xml">
       <configuration name="amazonSorting.sortPriceLowToHigh" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.11 at 23h 45m 47s.xml">
+    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.12 at 17h 37m 36s.xml">
       <configuration name="amazonSorting.sortPriceLowToHigh" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.11 at 23h 46m 42s.xml">
+    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.12 at 17h 42m 56s.xml">
       <configuration name="amazonSorting.sortPriceLowToHigh" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.11 at 23h 47m 14s.xml">
-      <configuration name="amazonSorting.sortPriceLowToHigh" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.11 at 23h 52m 00s.xml">
+    <history-entry file="amazonSorting_sortPriceLowToHigh - 2016.09.12 at 17h 43m 52s.xml">
       <configuration name="amazonSorting.sortPriceLowToHigh" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="29" width="1838" height="1048" extended-state="0" />
+    <frame x="47" y="29" width="1838" height="1048" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -686,8 +686,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/testPackage/amazonSorting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1278">
-          <caret line="98" column="66" selection-start-line="98" selection-start-column="66" selection-end-line="98" selection-end-column="66" />
+        <state relative-caret-position="480">
+          <caret line="141" column="1" selection-start-line="141" selection-start-column="1" selection-end-line="141" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
