@@ -1,6 +1,7 @@
 package other;
 
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -17,31 +18,14 @@ public class settings {
 
     public WebDriver driver;
 
-    public WebDriverWait wait;
-
  @BeforeMethod
-
     public void setUp () {
-
-        driver = new FirefoxDriver();
+      driver = new FirefoxDriver();
 
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-
-       // wait = new WebDriverWait(driver, 10);
-
-
-
-
-      //  driver.manage().window().maximize();
-
-
     }
-
  @AfterMethod
-
     public void closeBrowser (){
-
-     driver.quit();
+    // driver.quit();
  }
-
 }
