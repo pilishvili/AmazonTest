@@ -26,6 +26,6 @@ public class settings {
     }
  @AfterMethod
     public void closeBrowser (){
-    // driver.quit();
+     driver.quit();
  }
 }
