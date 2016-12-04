@@ -29,6 +29,7 @@ public class amazonSorting extends settings {
             Assert.fail(); }
         System.out.println("*************************************************");
     }
+    
 
     @Test //Check if prices are sorted by Low to High
     public void sortPriceLowToHigh() throws InterruptedException {
